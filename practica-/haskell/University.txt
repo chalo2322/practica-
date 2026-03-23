@@ -1,0 +1,3 @@
+1001,Juan Perez,,
+1002,Ana Gomez,,
+1003,Carlos Ruiz,480,720
